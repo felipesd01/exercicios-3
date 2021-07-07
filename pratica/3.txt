@@ -1,0 +1,11 @@
+void main() {
+  int num1 = 10;
+  int num2 = 1;
+  int resultado = 0;
+  for(num2 = 1; resultado < 1200; num2++){
+    
+   resultado = num1 * num2;
+   print(' $num1 * $num2 = $resultado');
+    
+  }
+}

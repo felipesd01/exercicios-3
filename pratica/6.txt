@@ -1,0 +1,13 @@
+void main() {
+  
+  int tabuada = 8;
+  int resultado = 0;  
+  
+  for(int i = 0; i < 11; i++){
+    resultado = tabuada * i;
+    print("$i * $tabuada = $resultado");
+  }
+  
+  
+
+}
